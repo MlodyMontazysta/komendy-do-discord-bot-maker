@@ -1,0 +1,15 @@
+{
+  "name": "gif",
+  "permissions": "NONE",
+  "restriction": "1",
+  "_id": "AFvnt",
+  "actions": [
+    {
+      "channel": "0",
+      "varName": "",
+      "file": "resources/gif.gif",
+      "message": "Przesłane przez użytkownika ${member}",
+      "name": "Send File"
+    }
+  ]
+}
